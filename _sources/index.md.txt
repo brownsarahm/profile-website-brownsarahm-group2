@@ -1,6 +1,5 @@
-# Page Title
+# Dr. Brown's TD Site
 
-A short introduction for the top of your main page
+I enjoy teaching by live coding.
 
 
-More content you want on your page
